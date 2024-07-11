@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from project &apos;jdbcTemplate&apos;&#x0A;- Original project: &apos;jdbcTemplate&apos;&#x0A;- Original element: &apos;jdbcTemplate/src/main/java/com.spring.orm.Entity&apos;" description="Delete element" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.spring.orm.Entity" element2="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.spring.orm" elements="2" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1692973203638" subPackages="false" version="1.0"/>
+</session>
